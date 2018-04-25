@@ -16,13 +16,11 @@ in this course comes in the building of these algorithms and models, which is al
 why I often tell people that our course is a double study of computer science and 
 biology, just that it's crammmed into a single major. While prospective students
 might be turned off at perhaps their lack of aptitude towards computer science, 
-the assurance is that the computer science knowledge required is not as in depth as
-pure computer science courses requirements (basic data structures, understanding of
-machine learning etc). However, due to the intensive nature of this course, there's only
-a few elective allocated that you could take for flexible learning.
+the assurance is that the computer science knowledge required is not as in depth as the requirement in a pure computer science course (just some basic data structures/algorithms, an understanding of
+machine learning etc). However, due to the intensive nature of this course, there're only a few electives allocated that you could take for flexible learning.
 
 Given a limited number of modules for electives, a question you might ask at this
-point in time is, should I have a strong concentration on biology, computer science
+point in time is, should I have a strong concentration on either biology, computer science
 or both? My answer to this is, it depends on your interests, but more importantly what
 you plan to do in the future. In light of academia, courses in computational biology
 are mostly designed in a way to facilitate students for transition into higher studies
