@@ -1,5 +1,4 @@
 # NUS-Degree-in-Computational-Biology
-Details on what to expect when studying Computational Biology in NUS
 
 I have recently "unofficially" graduated from the National University of Singapore
 as a result of overloading modules in my earlier terms of study. Having a bit of free
