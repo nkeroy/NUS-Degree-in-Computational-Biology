@@ -52,3 +52,5 @@ aligned with your interests. If you require any help for searching, feel free to
 drop me an email and I will do my best to advise you. Alternatively, the best way is
 to consult the coordinators for the computationally biology course and they will
 do their best to help you.
+
+For now, this would be the end of my write-up. If I ever receive any questions or feedback, I may add in new content to make this a better guide.
