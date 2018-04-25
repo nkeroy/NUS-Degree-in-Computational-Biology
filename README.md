@@ -3,8 +3,8 @@ Details on what to expect when studying Computational Biology in NUS
 
 I have recently "unofficially" graduated from the National University of Singapore
 as a result of overloading modules in my earlier terms of study. Having a bit of free
-time to spare (and some tingling inspiration from a junior in Computational Biology
-see link: https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide), this write-up
+time to spare and some inspiration from a junior in Computational Biology
+credits to Xuan Lim's introduction to NUS Computational Biology: https://github.com/HayashiEsme/NUS-Unofficial-Comp-Bio-Guide), this write-up
 is for mainly undergraduates in the Computational Biology course offered by Faculty 
 of Science, however it can be also used as a benchmark for incoming students as what to
 expect out of this demanding course.
