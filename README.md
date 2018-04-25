@@ -46,8 +46,7 @@ and the usage of available softwares for analysis. However, you do not have to
 wait until the final year to start thinking of what you want to do. There are UROPS
 projects available for NUS students (research projects which you can try out research
 with a supervising professor) that you can have a taste of what it's like to do research
-in a certain topic. While computational biology do not update UROPS project in the UROPS
-portal, a good suggestion would be to search for professors whose research areas are
+in a certain topic. While the UROPS portal hardly update computational biology projects, a good suggestion would be to search for professors whose research areas are
 aligned with your interests. If you require any help for searching, feel free to
 drop me an email and I will do my best to advise you. Alternatively, the best way is
 to consult the coordinators for the computationally biology course and they will
